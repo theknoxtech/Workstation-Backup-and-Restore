@@ -1,3 +1,17 @@
+$ListView1_SelectedIndexChanged = {
+}
+$MaskedTextBox1_MaskInputRejected = {
+}
+$TabPage1_Click = {
+}
+$ComboBox1_SelectedIndexChanged = {
+}
+$TabPage2_Click = {
+}
+$Form1_Load = {
+}
+$Panel1_Paint = {
+}
 
 
 
