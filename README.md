@@ -97,8 +97,7 @@ The script's functionality is divided into several key parts:
 |An application fails to install via `winget`.|The package identifier may have changed, the `winget` source may be down, or the installer may have failed for a specific reason.|Run `winget install --id <Package.Identifier>` manually for the failed app and check the output for specific error messages.|
 
 ## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page]([https://github.com/theknoxtech/Workstation-Backup-and-Restore/issues]) for this project to see how you can help.
+ Contributions, issues, and feature requests are welcome! Feel free to check the [issues page]([https://github.com/theknoxtech/Workstation-Backup-and-Restore/issues]) for this project to see how you can help.
 
 ## 📄 License
 
