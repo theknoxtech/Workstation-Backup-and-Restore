@@ -1,0 +1,22 @@
+Winget Apps
+AutoHotKey - winget install -h --id AutoHotkey.AutoHotkey --accept-source-agreements
+Sublime Text 3 - winget install -h --id SublimeHQ.SublimeText.3 --accept-source-agreements
+Sublime Text 4 - winget install -h --id SublimeHQ.SublimeText.4  --accept-source-agreements
+Visual Studio Code - winget install -h --id Microsoft.VisualStudioCode --accept-source-agreements
+Obsidain - winget install -h --id Obsidian.Obsidian --accept-source-agreements
+7Zip - winget install -h --id 7zip.7zip --accept-source-agreements
+Advanced IP Scanner - winget install -h --id Famatech.AdvancedIPScanner --accept-source-agreements
+Brave Browser - winget install -h --id Brave.Brave --accept-source-agreements
+Grammarly - winget install -h --id Grammarly.Grammarly --accept-source-agreements
+Greenshot - winget install -h --id Greenshot.Greenshot --accept-source-agreements
+GitHub Desktop - winget install -h --id GitHub.GitHubDesktop --accept-source-agreements
+Python - winget install -h --id Python.Python.3.12 --accept-source-agreements
+Logitech GHUB - winget install -h --id Logitech.GHUB --accept-source-agreements
+Rufus - winget install -h --id Rufus.Rufus --accept-source-agreements
+Teams - winget install --id Microsoft.Teams --accept-source-agreements
+
+
+Microsoft Store Apps
+Sysinternals - winget install sysinternals -h --accept-package-agreements --source msstore
+Sticky Notes - winget install "Microsoft Sticky Notes" --accept-package-agreements --source msstore
+Grammarly - winget install Grammarly --accept-package-agreements --source msstore

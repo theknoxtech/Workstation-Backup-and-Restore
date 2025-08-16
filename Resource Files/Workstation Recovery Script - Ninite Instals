@@ -1,0 +1,27 @@
+Installing with Ninite 
+Select multiple by editing the app part of the user /chrome-firefox-revo/ninite.exe
+
+Revo - Invoke-WebRequest -Uri "https://ninite.com/revo/ninite.exe" -OutFile "C:\tmp\Revo.exe"
+
+
+MSI Installer options
+
+/quiet
+		Quiet mode, no user interaction
+	/passive
+		Unattended mode - progress bar only
+	/q[n|b|r|f]
+		Sets user interface level
+		n - No UI
+		b - Basic UI
+		r - Reduced UI
+		f - Full UI (default)
+	/help
+		Help information
+Restart Options
+	/norestart
+		Do not restart after the installation is complete
+	/promptrestart
+		Prompts the user for restart if necessary
+	/forcerestart
+		Always restart the computer after installation

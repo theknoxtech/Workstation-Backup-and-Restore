@@ -88,6 +88,13 @@ function IsWorkstationRestore {
 
 
 
+
+
+###
+# Script Start
+##$
+
+
 # Install Microsoft ConsoleGUITools
 
 Get-RequiredTools
