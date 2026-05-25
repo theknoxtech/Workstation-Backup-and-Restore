@@ -5,8 +5,6 @@ param(
 )
 
 
-
-
 function Get-RequiredTools {
 
     winget install --id Microsoft.Powershell --accept-source-agreements
@@ -79,6 +77,7 @@ function Get-UserAppInstalls {
 }
 
 function IsWorkstationBackup {
+    
 
 }
 
@@ -90,9 +89,11 @@ function IsWorkstationRestore {
 
 
 
-###
-# Script Start
-##$
+################
+# Script Start #
+################
+
+
 
 
 # Install Microsoft ConsoleGUITools

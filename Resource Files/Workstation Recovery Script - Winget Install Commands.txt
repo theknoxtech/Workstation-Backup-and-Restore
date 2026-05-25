@@ -20,3 +20,7 @@ Microsoft Store Apps
 Sysinternals - winget install sysinternals -h --accept-package-agreements --source msstore
 Sticky Notes - winget install "Microsoft Sticky Notes" --accept-package-agreements --source msstore
 Grammarly - winget install Grammarly --accept-package-agreements --source msstore
+
+Add the following and add to path
+Node.js
+gh cli
